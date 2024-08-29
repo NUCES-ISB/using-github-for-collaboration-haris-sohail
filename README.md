@@ -6,3 +6,9 @@ Source this environment
 
 Install all the dependencies
 `pip install -r requirements.txt`
+
+Run the tests
+`pytest test.py`
+
+Run the app
+`python app.py`
