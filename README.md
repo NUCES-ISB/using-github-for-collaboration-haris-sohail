@@ -1,3 +1,5 @@
+# Calculator App
+
 Create virtual environment using
 `python -m venv .venv`
 
